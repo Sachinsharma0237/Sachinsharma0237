@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sachin Sharma
 - 👀 I’m interested in MERN Stack Dev
-- 🌱 I’m currently working as an Full Stack Dev
+- 🌱 I’m currently working as a Full Stack Dev
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me, contact me on gmail: sachinsharma0237@gmail.com
 
